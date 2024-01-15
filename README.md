@@ -1,16 +1,13 @@
-# flutter_launchpad
+# Flutter Launchpad
 
-A new Flutter project.
+A new platform for devs to receive feedback and find testers for their apps. Hoping to make the process of getting an app to the deployment stage a tiny bit easier with a dedicated platform so devs can reach the 20 tester requirement. Also great for apps that you are building for iOS, web, games, or apps that are already released.
 
-## Getting Started
+Developers can include public test links so all users can join -- users that test and provide quality feedback earm Dev Bits which can be used for rewards or free promotion in the future.
 
-This project is a starting point for a Flutter application.
+Developers can also export a list of emails to invite testers to a private test track once users request to test your app.
 
-A few resources to get you started if this is your first Flutter project:
+## How it works
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Add your app -> Provide opinions on other apps -> Test apps -> Earn bits -> Gain feedback on your own app(s) -> Then laumch with confidence
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://flutter-launchpad.web.app/
